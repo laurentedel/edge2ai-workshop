@@ -428,7 +428,7 @@ WARNING: See link:data/RefData_geolocation.sql[Create SQL Statement]
 +
 image::images/create_table.png[width=800]
 +
-. Go back to SSB to add Kudu as a new data source: *Data Provides > Register Catalog*
+. Go back to SSB to add Kudu as a new data source: *Data Providers > Register Catalog*
 +
 
 .  *Edit Catalog* window, enter the following information:
